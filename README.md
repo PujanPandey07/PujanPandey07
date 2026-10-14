@@ -10,7 +10,7 @@ Software engineer based in Kathmandu, Nepal. I build full-stack web apps and app
 - **AI/ML:** LangChain, LangGraph, scikit-learn, XGBoost, YOLO / computer vision
 
 ## Featured projects
-- **[NPL Fantasy Cricket](<repo-link>)**: full-stack fantasy cricket platform. Django REST + React, Dockerized with nginx, Postgres and Redis, deployed on Azure with CI/CD.
+- **[NPL Fantasy Cricket](https://github.com/PujanPandey07/NPL-Fantasy_cricket)**: full-stack fantasy cricket platform. Django REST + React, Dockerized with nginx, Postgres and Redis, deployed on Azure with CI/CD.
 - **[Agentic Data Scientist](<repo-link>)**: give it a CSV and a question; a LangGraph pipeline handles cleaning, EDA, modelling, tuning and reporting.
 - **[Nepal Trip Planner](https://github.com/PujanPandey07/Tripplanner-for-nepal-)**: LangGraph travel agent with tools, persistent memory and a Django UI.
 - **[Padel Shot Classifier](https://github.com/PujanPandey07/Padel_Shot_Classifier)**: shot classification from video using YOLOv8-pose and an LSTM.
